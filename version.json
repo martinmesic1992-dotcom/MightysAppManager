@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.0.16",
-  "download": "https://github.com/martinmesic1992-dotcom/MightysAppManager/releases/download/v1.0.0.16/AppManager-1.0.0.16.zip",
+  "latest": "1.0.0.17",
+  "download": "https://github.com/martinmesic1992-dotcom/MightysAppManager/releases/download/v1.0.0.17/AppManager-1.0.0.17.zip",
   "notes": "Added Nvidia Control Panel as Winget."
 }
